@@ -15,6 +15,10 @@
 
 <br clear="both">
 
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFtZ2N4dzV3NWRoN3Q5d3p1YTZ1d3djbXg0MXpsbmFvaG54YjlocCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -31,12 +35,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFtZ2N4dzV3NWRoN3Q5d3p1YTZ1d3djbXg0MXpsbmFvaG54YjlocCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/menna-ahmed-00325a2b4/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -48,13 +46,5 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mennaahmed04/Mennaahmed04/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mennaahmed04/Mennaahmed04/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mennaahmed04/Mennaahmed04/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
