@@ -15,11 +15,13 @@
 
 <br clear="both">
 
-<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFtZ2N4dzV3NWRoN3Q5d3p1YTZ1d3djbXg0MXpsbmFvaG54YjlocCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif"  />
+<div align="left">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFtZ2N4dzV3NWRoN3Q5d3p1YTZ1d3djbXg0MXpsbmFvaG54YjlocCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif"  />
+</div>
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -35,7 +37,7 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <a href="https://www.linkedin.com/in/menna-ahmed-00325a2b4/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
