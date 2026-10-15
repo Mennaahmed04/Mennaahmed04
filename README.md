@@ -7,10 +7,9 @@
 ###
 
 ## About Me
-
-🌱 Learning something new about React and Next.js every single day
-🧩 Passionate about turning ideas and designs into real, working interfaces
-🎯 Goals: build polished websites, grow into a software engineer, and join open-source projects
+🌱 Learning something new about React and Next.js every single day<br>
+🧩 Passionate about turning ideas and designs into real, working interfaces<br>
+🎯 Goals: build polished websites, grow into a software engineer, and join open-source projects<br>
 🐛 Fun Fact: I treat every bug as a puzzle, and I'm not happy until it's solved 🧠✨
 
 ###
@@ -63,8 +62,8 @@
 
 - 🌹 **[Rose App](https://github.com/Mennaahmed04/Rose-App)**: online flower shop built with Next.js
 - 📝 **Exam App**: online examination platform
-- 💪 **Super Fitness**: fitness app built with React
-- 📄 **CVision**: graduation project, an AI tool for CV analysis, building, and interview prep
+- 💪 **[Super Fitness](https://github.com/Mennaahmed04/super-fitness)**: fitness app built with React
+- 📄 **[CVision](https://github.com/Mennaahmed04/CVision-Project)**: graduation project, an AI tool for CV analysis, building, and interview prep
 
 ###
 
